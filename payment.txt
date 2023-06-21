@@ -1,0 +1,5 @@
+
+1 		ChunYan		Feb 20, 2017		RM620		Eric
+2 		WeeHeong		Feb 20, 2017		RM400		Eric
+3 		MengWei		Feb 20, 2017		RM255		Eric
+4 		A		Feb 20, 2017		RM620		Eric

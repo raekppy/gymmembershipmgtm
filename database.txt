@@ -1,0 +1,5 @@
+1		ChunYan		0123456789		Deluxe		RM500		RM120		Active		Mar 20, 2017
+2		WeeHeong		0198765432		Non-Deluxe		RM300		RM100		Active		Mar 20, 2017
+3		MengWei		0134256789		Week-Day		RM180		RM75		Active		Mar 20, 2017
+4		A		123		Deluxe		RM500		RM120		Active		Mar 20, 2017
+5		A		123		Non-Deluxe		RM300		RM100		New		Feb 20, 2017
